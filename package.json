@@ -1,8 +1,8 @@
 {
-  "name": "growth-hacking-radom-msg",
+  "name": "growth-hacking-random-msg",
   "version": "1.0.0",
   "description": "this module allows you to get a random message about groth hacking techniques. ",
-  "main": "src/index.js",
+  "main": "src/random-menssage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
