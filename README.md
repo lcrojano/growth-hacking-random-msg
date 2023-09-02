@@ -7,9 +7,9 @@ This NPM package provides a collection of Growth Hacking messages inspired by Se
 To install this module as a dependency in your Node.js project, you can use npm or yarn:
 
 ```bash
-npm install growth-hacking-messages
+npm install growth-hacking-random-msg
 # or
-yarn add growth-hacking-messages
+yarn add growth-hacking-random-msg
 ```
 
 
