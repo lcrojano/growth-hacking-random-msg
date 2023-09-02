@@ -1,6 +1,6 @@
 {
   "name": "growth-hacking-random-msg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this module allows you to get a random message about growth hacking techniques. ",
   "main": "dist/random-message.js",
   "scripts": {
@@ -23,5 +23,9 @@
   "homepage": "https://github.com/lcrojano/growth-hacking-random-msg#readme",
   "devDependencies": {
     "typescript": "^5.2.2"
-  }
+  },
+  "bin": {
+    "random-str-msg": "./dist/random-message.js"
+  },
+  "preferGlobal": true
 }
