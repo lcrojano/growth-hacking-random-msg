@@ -19,7 +19,7 @@ Once you've installed the package, you can import and use it in your Node.js app
 
 
 ```javascript
-const growthHackingMessages = require('growth-hacking-messages');
+const growthHackingMessages = require('growth-hacking-random-msg');
 const message = growthHackingMessages.getRandomMessage();
 console.log(message);
 ```
